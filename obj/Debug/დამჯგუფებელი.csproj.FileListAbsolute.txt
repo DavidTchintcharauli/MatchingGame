@@ -1,0 +1,10 @@
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Debug\დამჯგუფებელი.csproj.AssemblyReference.cache
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Debug\დამჯგუფებელი.csproj.GenerateResource.cache
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Debug\დამჯგუფებელი.csproj.CoreCompileInputs.cache
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb

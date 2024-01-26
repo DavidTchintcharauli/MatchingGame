@@ -1,0 +1,14 @@
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\bin\Release\MatchingGame.exe.config
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\bin\Release\MatchingGame.exe
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\bin\Release\MatchingGame.pdb
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\დამჯგუფებელი.csproj.AssemblyReference.cache
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\MatchingGame.Form1.resources
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\MatchingGame.Properties.Resources.resources
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\დამჯგუფებელი.csproj.GenerateResource.cache
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\დამჯგუფებელი.csproj.CoreCompileInputs.cache
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\MatchingGame.exe
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\MatchingGame.pdb
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\bin\Release\MatchingGame.exe.manifest
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\bin\Release\MatchingGame.application
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\MatchingGame.exe.manifest
+C:\Users\Geekster PC\Desktop\MatchingGame\MatchingGame\obj\Release\MatchingGame.application
